@@ -14,13 +14,6 @@ const iface = new Interface([
 // API CALL
 // ["AAVE", "ADA", "ALGO", "ANKR", "APE", "API3", "ARB", "ATOM", "AUD", "AVAX", "AXS", "BAL", "BAT", "BIT", "BNB", "BRL", "BTC", "BTT", "BUSD", "CAD", "CAKE", "CELO", "CHF", "CHZ", "CNY", "COMP", "CRO", "CRV", "CVX", "DAI", "DOGE", "DOT", "DYDX", "ETH", "EUL", "EUR", "FIL", "FLOW", "FRAX", "FTM", "FXS", "GBP", "GLMR", "GMX", "GNO", "GRT", "HBAR", "HNT", "HT", "ICP", "IMX", "INR", "JOE", "JPY", "KDA", "KRW", "KSM", "LDO", "LINK", "LQTY", "LTC", "LUSD", "MANA", "MATIC", "METIS", "MIMATIC", "MKR", "MOVR", "MXN", "NEAR", "NZD", "OKB", "OP", "PAXG", "PHP", "QUICK", "ROSE", "RPL", "RSR", "RUNE", "SAND", "SEK", "SGD", "SHIB", "SNX", "SOL", "STETH", "STG", "STMATIC", "STX", "SUSD", "SUSHI", "TRY", "TUSD", "UNI", "USDC", "USDP", "USDT", "WBTC", "XLM", "XMR", "XRP", "XTZ", "YFI", "ZAR", "ZIL", "ZRX"]
 
-// ETH/USD: 0xE889956fA885F42B0C294507d0e67a3168BE188b
-// BTC/USD: 0xdb54AFbD2bdc1A0993b07D1Ec1d7E70f26C8a527
-// MATIC/USD: 0xD04CB8953D7A07fdd479F56A448340B996a6b972
-// USDC/USD: 0xb7553b14e05c2eFf8e2ebab2b1100F1f09C5207d
-// USDT/USD: 0x906797B88CD35aAEcB9b348E5399b89676e89843
-// DAI/USD: 0x739DF3EAe179D323D2a2947c56DAe1530f8BC61D
-
 const dapiName = ["FRAX"]
 console.log(dapiName.length)
 const chain = "zkevm";
