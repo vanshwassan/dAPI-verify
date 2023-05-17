@@ -7,5 +7,8 @@
     "ethers": "^5.4.0",
     "hardhat-ethers": "^1.0.1",
     "node-fetch": "2.0"
+  },
+  "scripts": {
+    "checkdAPI" : "node dAPIChecker.js"
   }
 }
